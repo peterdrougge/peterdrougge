@@ -1,4 +1,5 @@
 ### Cloud, Machine Learning & AI advocate.
+### .NET fan since forever.
 
 <!--
 **peterdrougge/peterdrougge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
