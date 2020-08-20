@@ -1,4 +1,4 @@
-### Hi there 👋
+### Cloud, Machine Learning & AI advocate.
 
 <!--
 **peterdrougge/peterdrougge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
